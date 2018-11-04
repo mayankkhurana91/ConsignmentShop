@@ -1,0 +1,12 @@
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csprojResolveAssemblyReference.cache
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.Properties.Resources.resources
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.GenerateResource.Cache
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.CoreCompileInputs.cache
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe.config
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.pdb
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.ConsignmentShop.resources
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.exe
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.pdb
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopLibrary.dll
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopLibrary.pdb

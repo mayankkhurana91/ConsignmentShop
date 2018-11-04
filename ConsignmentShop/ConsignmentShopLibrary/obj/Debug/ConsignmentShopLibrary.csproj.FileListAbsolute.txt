@@ -1,0 +1,6 @@
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.dll
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.pdb
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csprojResolveAssemblyReference.cache
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
+F:\Alpine\youtube\Consignment Shop\VS Project\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb
